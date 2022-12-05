@@ -1,0 +1,1 @@
+# codeceptjs-intellij-reporter
