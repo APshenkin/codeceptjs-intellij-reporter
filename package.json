@@ -1,0 +1,39 @@
+{
+  "name": "codeceptjs-intellij-reporter",
+  "version": "0.0.1",
+  "description": "Codeceptjs internal reporter for WebStorm and other IntelliJ IDEs.",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/APshenkin/codeceptjs-intellij-reporter.git"
+  },
+  "keywords": [
+    "codeceptjs reporter",
+    "WebStorm",
+    "IntelliJ"
+  ],
+  "contributors": [
+    "Andrey Pshenkin <andrey.pshenkin@gmail.com>"
+  ],
+  "dependencies": {
+    "mocha": "*"
+  },
+  "licenses": [
+    {
+      "type": "Apache 2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/APshenkin/codeceptjs-intellij-reporter/issues"
+  },
+  "homepage": "https://github.com/mbolotov/codeceptjs-intellij-reporter#readme",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "Apache-2.0"
+}
