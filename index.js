@@ -1,7 +1,7 @@
-var Tree = require('./lib/cypressIntellijTree')
-  , util = require('./lib/cypressIntellijUtil')
-  , treeUtil = require('./lib/cypressTreeUtil')
-  , stringifier = require('./lib/cypress-intellij-stringifier')
+var Tree = require('./lib/codeceptjsIntellijTree')
+  , util = require('./lib/codeceptjsIntellijUtil')
+  , treeUtil = require('./lib/codeceptjsTreeUtil')
+  , stringifier = require('./lib/codeceptjs-intellij-stringifier')
   , SingleElementQueue = require('./lib/single-element-queue');
 
 // Reference: http://es5.github.io/#x15.4.4.19
